@@ -277,7 +277,7 @@ exports.finaliseBid = async (req, res) => {
         </div>
         <div class="row">
           <div class="col s6 offset-s3">
-            <p class="flow-text">Contact Number: ${consumerProfile.contact_numer}</p>
+            <p class="flow-text">Contact Number: ${consumerProfile.contact_number}</p>
           </div>
         </div>
         <div class="row">
@@ -331,7 +331,7 @@ exports.finaliseBid = async (req, res) => {
         </div>
         <div class="row">
           <div class="col s6 offset-s3">
-            <p class="flow-text">Contact Number: ${producerProfile.contact_numer}</p>
+            <p class="flow-text">Contact Number: ${producerProfile.contact_number}</p>
           </div>
         </div>
         <div class="row">
