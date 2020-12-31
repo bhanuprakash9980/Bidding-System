@@ -23,7 +23,7 @@ AgroBid uses a number of open source projects to work properly:
 * [MongoDB](https://www.mongodb.com/) - MongoDB is a general purpose, document-based, distributed database built for modern application developers and for the cloud era.
 * [Cloudinary](https://cloudinary.com/) - cloud-based image and video management services. It enables users to upload, store, manage, manipulate, and deliver images and video for websites and apps.
 * [I18next](https://www.i18next.com/) - I18next is an internationalization-framework written in and for JavaScript
-* [Express] - fast node.js network app framework [@tjholowaychuk]
+* [Express](https://expressjs.com/) - fast node.js network app framework 
 
 
 
