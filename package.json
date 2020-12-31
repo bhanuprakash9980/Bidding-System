@@ -1,0 +1,31 @@
+{
+  "name": "mysqlreactexpress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./server/server.js",
+  "dependencies": {
+    "dotenv": "^8.2.0"
+  },
+  "devDependencies": {
+    "concurrently": "^5.3.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node  server.js --prefix server",
+    "server": "nodemon  server.js --prefix server ",
+    "client": " npm start --prefix client",
+    "clientinstall": "npm install --prefix client",
+    "dev": "concurrently \"npm run server\" \"npm run client\"",
+    "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix client && npm install --prefix server && npm run build --prefix client"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhanuprakash9980/Bidding-System.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhanuprakash9980/Bidding-System/issues"
+  },
+  "homepage": "https://github.com/bhanuprakash9980/Bidding-System#readme"
+}

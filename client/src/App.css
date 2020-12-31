@@ -1,0 +1,22 @@
+.swiper-container {
+  width: '90%';
+}
+
+.swiper-pagination {
+  bottom: 0;
+  padding-bottom: 10px;
+}
+
+.swiper-wrapper {
+  padding-inline-start: 0;
+}
+.text-block {
+  position: absolute;
+  bottom: 10%;
+  right: 20%;
+
+  color: white;
+
+  padding-left: 2%;
+  padding-right: 2%;
+}
