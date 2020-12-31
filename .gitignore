@@ -16,7 +16,7 @@
 
 # production
 /client/build
-/server/config/mongo.config.js
+
 # misc
 /client/.DS_Store
 /client/.env.local
