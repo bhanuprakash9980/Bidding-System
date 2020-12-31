@@ -27,5 +27,5 @@
 /client/npm-debug.log*
 /client/yarn-debug.log*
 /client/yarn-error.log*
-/client/src/key.js
+/client/src/keys.js
 .env
