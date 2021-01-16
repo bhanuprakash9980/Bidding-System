@@ -7,7 +7,7 @@
 Agro Bid is a MERN stack based app for Bidding system Agriculture with producer consumer and admin privilages
 
   - Backend : NodeJS
-  - Frontend : ReactJS styled with materialize-csss
+  - Frontend : ReactJS styled with materialize-css
   - DataBase : MySQL MongoDB
   - Other Utitiles like react-i18next is used for translation between ಕನ್ನಡ and english
 
