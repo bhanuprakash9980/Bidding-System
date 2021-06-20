@@ -1,6 +1,6 @@
 # Agro Bid
 
-#### Goto https://agrobid.debugentity.me for live web app
+#### Goto https://agrobid.bhanuprakash.tech for live web app
 
 
 
