@@ -14,7 +14,7 @@
     "bcryptjs": "^2.4.3",
     "cheerio": "^1.0.0-rc.5",
     "express": "^4.17.1",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "mongoose": "^5.11.8",
     "mysql2": "^2.2.5",
     "nodemailer": "^6.4.17",
